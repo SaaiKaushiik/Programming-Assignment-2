@@ -1,12 +1,12 @@
 # Programming-Assignment-2
-The following code demonstrates how to use the assessment3.R R script.
+The following code demonstrates how to use the Programming-Assignment-2.R R script.
 
 Lines starting with # are simple comments, lines starting with #> are things printed in the output.
 
 // read the R script
 # replace the "path/to/file" with the directory you save the file into
 # or you can read the file directly from the web
-source("path/to/file/assessment3.R")
+source("path/to/file/Programming-Assignment-2.R")
 
 # create a *square* matrix (because `solve` only handles square matrices)
 # create the matrix during the call of makeCacheMatrix()
