@@ -65,7 +65,7 @@ cacheSolve(a)
 
  the 2nd time we run the function, we get the cached value
 cacheSolve(a)
-#> getting cached data
-#> [,1]        [,2]
-#> [1,] -1.1818182  1.09090909
-#> [2,]  0.1818182 -0.09090909
+> getting cached data
+> [,1]        [,2]
+> [1,] -1.1818182  1.09090909
+> [2,]  0.1818182 -0.09090909
